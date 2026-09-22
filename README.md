@@ -10,7 +10,6 @@ Projeto em Python para aprender a consumir uma API REST, trabalhar com JSON e pr
 - Tratar erros de requisição
 - Pesquisar e filtrar dados
 - Salvar dados localmente
-- Evoluir o projeto futuramente para Python + API + MySQL + FastAPI
 
 ## Tecnologias
 
